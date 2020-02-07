@@ -8,6 +8,7 @@ const PORT = process.env.PORT;
 const app = express();
 app.set("view engine", "pug");
 app.set("views", join(__dirname, "views"));
+app.use(express.static(join(__dirname, "static")));
 app.get("/", (req, res) => res.render("home"));
 
 const handleListening = () =>
