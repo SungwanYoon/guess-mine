@@ -1,0 +1,1 @@
+@-webkit-keyframes hello{0%{background-color:#00f}to{background-color:red}}@keyframes hello{0%{background-color:#00f}to{background-color:red}}body{background-color:#ff0;position:-webkit-sticky;position:sticky}

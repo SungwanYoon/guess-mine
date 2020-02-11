@@ -1,5 +1,14 @@
-$color: red;
+@import "body";
+
+@keyframes hello {
+  from {
+    background-color: blue;
+  }
+  to {
+    background-color: red;
+  }
+}
 
 body {
-  background-color: $color;
+  position: sticky;
 }
