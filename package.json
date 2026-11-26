@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/SungwanYoon/guess-mine#readme",
   "dependencies": {
-    "@babel/core": "^7.8.4",
+    "@babel/core": "^7.29.6",
     "@babel/node": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "@babel/register": "^7.8.3",
