@@ -27,7 +27,7 @@
     "dotenv": "^8.2.0",
     "express": "^3.0.1",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
+    "gulp-autoprefixer": "^10.0.0",
     "gulp-browserify": "^0.5.1",
     "gulp-csso": "^4.0.1",
     "gulp-sass": "^4.0.2",
